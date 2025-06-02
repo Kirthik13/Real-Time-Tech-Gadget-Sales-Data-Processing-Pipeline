@@ -1,4 +1,4 @@
-# ⚡ Real-Time Tech Gadget Sales Data Processing-Pipeline
+# ⚡Real-Time Tech Gadget Sales Data Processing-Pipeline
 
 This project demonstrates a real-time data pipeline for processing sales events of tech gadgets using streaming AWS services and enabling analytics through S3 and Athena.
 
