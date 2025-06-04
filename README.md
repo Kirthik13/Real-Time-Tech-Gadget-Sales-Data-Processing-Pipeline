@@ -26,3 +26,4 @@ This project demonstrates a real-time data pipeline for processing sales events 
 4. Data is stored in S3 and queried via Athena
 
 
+![Architecture](https://github.com/user-attachments/assets/4798064a-cab1-448a-bf96-54d86196f440)
